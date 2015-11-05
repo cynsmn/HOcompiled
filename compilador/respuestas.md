@@ -1,4 +1,5 @@
 Compilador
+
 -------------------------------------------------
 1. Ejecutamos make proprocessing:
      gcc -E calculator.c -o calculator.pp 
